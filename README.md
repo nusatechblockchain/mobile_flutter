@@ -1,4 +1,4 @@
-# crypto_template
+# exchange_template
 
 A new Flutter project.
 
